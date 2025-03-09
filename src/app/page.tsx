@@ -1,6 +1,5 @@
 import Homeslider from "./components/Homeslider"
-import Products from "./components/products"
-
+import Products from './components/Products';
 
 const HomePage = () => {
   return (
